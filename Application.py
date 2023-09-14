@@ -1,7 +1,7 @@
 #libraries importation
 import streamlit as st 
 import numpy as np
-import pickle4 as pickle
+import pickle
 import re 
 import string 
 
